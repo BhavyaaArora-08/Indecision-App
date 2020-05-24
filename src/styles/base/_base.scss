@@ -1,5 +1,6 @@
 html {
   font-size: 62.5%;
+  background: $dark-blue;
 }
 
 body {
@@ -7,6 +8,7 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   font-size: $m-size;
   padding-bottom: $xl-size;
+  height: 100%;
 }
 
 button {

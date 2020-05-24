@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f10349b5520053f728559577e8411063",
+    "revision": "f785a187fd29a997d0566d40b4319d9e",
     "url": "/Indecision-App/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Indecision-App/static/css/2.764ccc25.chunk.css"
   },
   {
-    "revision": "fc306622cef48a4547c6",
-    "url": "/Indecision-App/static/css/main.ebfea176.chunk.css"
+    "revision": "4b1e412f2759bd561934",
+    "url": "/Indecision-App/static/css/main.72112d3e.chunk.css"
   },
   {
     "revision": "20432d03ab69378cc546",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Indecision-App/static/js/2.9338794d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fc306622cef48a4547c6",
+    "revision": "4b1e412f2759bd561934",
     "url": "/Indecision-App/static/js/main.ed4100e4.chunk.js"
   },
   {

@@ -14,7 +14,7 @@
     "react-scripts": "3.4.1"
   },
   "scripts": {
-    "homepage": "https://codess08.github.io/Indecision-App/",
+    "homepage": ".",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
@@ -41,3 +41,5 @@
     "gh-pages": "^2.2.0"
   }
 }
+
+// https://codess08.github.io/Indecision-App/
